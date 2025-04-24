@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<root>
+  <digests>
+    <digest hash="md5" name="rpm.mbn">5d394c3a316cf2b41c82df659e48f6df</digest>
+    <digest hash="md5" name="cache.img">c913ac3953187ee7f76b2513e9b88785</digest>
+    <digest hash="md5" name="crclist.txt">90aa6911e0ce539fb0de3e776733e4db</digest>
+    <digest hash="md5" name="boot.img">fc854b7632e410a64355354e00d63b5e</digest>
+    <digest hash="md5" name="vendor.img">ec54d182ad54476bf79d700e7e1e3a6c</digest>
+    <digest hash="md5" name="emmc_appsboot.mbn">557f13ce81e3279c346b6a067f53734a</digest>
+    <digest hash="md5" name="patch0.xml">843477ef723edde2997c85a680f2850f</digest>
+    <digest hash="md5" name="splash.img">ad5b0dd9977ce8ba8ae24ebbe774bd3b</digest>
+    <digest hash="md5" name="gpt_main0.bin">1406581776abf6c148cb9d9ebddc3f20</digest>
+    <digest hash="md5" name="devcfg.mbn">c15d098a85a8cf463dff6b0db5a05d58</digest>
+    <digest hash="md5" name="gpt_both0.bin">8d1e0ebaff8b31f621e663240f2226d7</digest>
+    <digest hash="md5" name="persist.img">d13fee56781b114926c58c148acde584</digest>
+    <digest hash="md5" name="partition.xml">dc7bf06b45803ffc8a609a2f0bb0999b</digest>
+    <digest hash="md5" name="cmnlib_30.mbn">8cdabaed34ab6021d3fca191d488ebe3</digest>
+    <digest hash="md5" name="sbl1.mbn">0047ad00e680596e13f0a08cb6ef7964</digest>
+    <digest hash="md5" name="system.img">c1342e9759c44698aca2d4d145741bc2</digest>
+    <digest hash="md5" name="NON-HLOS.bin">67dab66b6e1d197cdbb8bb25662bf08e</digest>
+    <digest hash="md5" name="dummy.img">0829f71740aab1ab98b33eae21dee122</digest>
+    <digest hash="md5" name="lksecapp.mbn">03a171207fdfbbcc2732325ddd28345b</digest>
+    <digest hash="md5" name="adspso.bin">ce708dfe87327eb4ecd22a91302b5827</digest>
+    <digest hash="md5" name="userdata.img">2786961589d83092766b1f604ced513d</digest>
+    <digest hash="md5" name="misc.img">0829f71740aab1ab98b33eae21dee122</digest>
+    <digest hash="md5" name="elf_path.txt">2c7b446f35a1968433b700c76894f05d</digest>
+    <digest hash="md5" name="mdtp.img">c22d02b6e5e4648db590e551012351cc</digest>
+    <digest hash="md5" name="keymaster64.mbn">7528467e97461c953aaec50f8087cd2c</digest>
+    <digest hash="md5" name="recovery.img">b305862837b4b26351ec6a5e27d9609c</digest>
+    <digest hash="md5" name="config.bin">bb7df04e1b0a2570657527a7e108ae23</digest>
+    <digest hash="md5" name="cmnlib64_30.mbn">b70ef7d1d1574b6b193e9e33050ff0e6</digest>
+    <digest hash="md5" name="sparsecrclist.txt">9d0c474a0a89ffbf9fbf62d8c8f38954</digest>
+    <digest hash="md5" name="cust.img">c7dcc85b817a37fcfdfbbbcf2ac1d879</digest>
+    <digest hash="md5" name="rawprogram0.xml">1fb35d8ac78c3d9cab9b10a8c18cc2e2</digest>
+    <digest hash="md5" name="prog_emmc_firehose_8953_ddr.mbn">3ae407548190e89c6522d2fd21a1fc33</digest>
+    <digest hash="md5" name="gpt_backup0.bin">1c6e2f02150a3f4017181979bd612306</digest>
+    <digest hash="md5" name="tz.mbn">e90bd7189a129fb6edc63abcdf0faa2b</digest>
+  </digests>
+</root>
